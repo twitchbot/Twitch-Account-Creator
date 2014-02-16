@@ -1,0 +1,12 @@
+c:\users\jack\desktop\coding\twitch\TwitchAccountCreator\TwitchAccountCreator\bin\Release\TwitchAccountCreator.exe.config
+c:\users\jack\desktop\coding\twitch\TwitchAccountCreator\TwitchAccountCreator\bin\Release\TwitchAccountCreator.exe.manifest
+c:\users\jack\desktop\coding\twitch\TwitchAccountCreator\TwitchAccountCreator\bin\Release\TwitchAccountCreator.application
+c:\users\jack\desktop\coding\twitch\TwitchAccountCreator\TwitchAccountCreator\bin\Release\TwitchAccountCreator.exe
+c:\users\jack\desktop\coding\twitch\TwitchAccountCreator\TwitchAccountCreator\bin\Release\TwitchAccountCreator.pdb
+c:\users\jack\desktop\coding\twitch\TwitchAccountCreator\TwitchAccountCreator\obj\Release\TwitchAccountCreator.Properties.Resources.resources
+c:\users\jack\desktop\coding\twitch\TwitchAccountCreator\TwitchAccountCreator\obj\Release\TwitchAccountCreator.csproj.GenerateResource.Cache
+c:\users\jack\desktop\coding\twitch\TwitchAccountCreator\TwitchAccountCreator\obj\Release\TwitchAccountCreator.exe.manifest
+c:\users\jack\desktop\coding\twitch\TwitchAccountCreator\TwitchAccountCreator\obj\Release\TwitchAccountCreator.application
+c:\users\jack\desktop\coding\twitch\TwitchAccountCreator\TwitchAccountCreator\obj\Release\TwitchAccountCreator.exe
+c:\users\jack\desktop\coding\twitch\TwitchAccountCreator\TwitchAccountCreator\obj\Release\TwitchAccountCreator.pdb
+C:\Users\Jack\Desktop\Coding\twitch\TwitchAccountCreator\TwitchAccountCreator\obj\Release\TwitchAccountCreator.csprojResolveAssemblyReference.cache
